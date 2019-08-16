@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.App {
+  margin-top: 50px;
+}
+
+.order {
+  width: 640px;
+  height: 200px;
+  border: 1px;
+  border-style: solid;
+  border-color: #D3D3D3;
+  padding: 35px;
+  margin: 0 auto;
+}
+
+.header {
+  margin: 0 auto;
+  width: 640px;
+  height: 70px;
+  font-size: 28px;
+  padding-top: 15px;
+  background-color: #F5F5F5;
+  padding-left: 35px;
+}
+
+.square {
+  width: 10px;
+  height: 35px;
+  background-color: #009F49;
+  float: left;
+  margin-right: 15px;
+}
+
+.logo {
+  float: left;
+}
+
+.green {
+  color: #009b4a;
+}
+
+.text {
+  width: 420px;
+  height: 120px;
+  float: left;
+  margin-left: 33px;
+  font-size: 28px;
+}
+
+.date {
+  margin-left: 60px;
+}
+
+.name {
+  text-align: left;
+  clear: both;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
